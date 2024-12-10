@@ -5,23 +5,23 @@ This project demonstrates UI automation testing using Cucumber and Selenium WebD
 ---
 
 ## **Project Structure**
-uiautomation2024/ 
-├── .idea/ # IntelliJ project files 
-├── report/ # Test reports (if configured) 
-├── src/ 
-│ ├── test/ 
-││ ├── features/ # Cucumber feature files 
-│ │ │ ├── EbayHome.feature
-│ │ │ ├── EbayAdvancedSearch.feature 
-│ │ ├── java/ 
-│ │ │ ├── steps/ # Step definition files 
-│ │ │ │ ├── EbayHomeSteps.java 
-│ │ │ │ ├── EbayAdvancedSearchSteps.java 
-│ │ │ ├── testRunner/ # Cucumber test runner (if applicable)
-├── webdrivers/ # Chromedriver executable
-│ ├── chromedriver
-├── pom.xml # Maven configuration file
-└── README.md # Project instructions
+### uiautomation2024/ 
+###├── .idea/ # IntelliJ project files 
+###├── report/ # Test reports (if configured) 
+###├── src/ 
+###│ ├── test/ 
+###││ ├── features/ # Cucumber feature files 
+###│ │ │ ├── EbayHome.feature
+###│ │ │ ├── EbayAdvancedSearch.feature 
+###│ │ ├── java/ 
+###│ │ │ ├── steps/ # Step definition files 
+###│ │ │ │ ├── EbayHomeSteps.java 
+###│ │ │ │ ├── EbayAdvancedSearchSteps.java 
+###│ │ │ ├── testRunner/ # Cucumber test runner (if applicable)
+###├── webdrivers/ # Chromedriver executable
+###│ ├── chromedriver
+###├── pom.xml # Maven configuration file
+###└── README.md # Project instructions
 
 ## **Setup Instructions**
 
