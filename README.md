@@ -31,7 +31,7 @@ uiautomation2024/
 - Ensure the following tools are installed on your system:
   - **Java** (OpenJDK 8 or higher)
   - **Maven** (3.6 or higher)
-  - **Google Chrome** (Version 131.0.6778.70)
+  - **Google Chrome** (Version 131.0.6778.139)
 - Download the compatible Chromedriver for your system:
   [Chrome for Testing](https://googlechromelabs.github.io/chrome-for-testing/#stable).
 
